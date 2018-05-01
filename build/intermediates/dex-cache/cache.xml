@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\q\.android\build-cache\f285b81b19848965d017733992617a7f71d44d3e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\q\Desktop\AudioPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c7b732a89c76b5fee4462fe512e017d14622e3b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\q\Desktop\AudioPlayer-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\q\Desktop\AudioPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_50d98e21e8595db56d2230182f99b343b23fe243\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\q\.android\build-cache\f6743fdd902d94ead2cbb11ea9d21ce843360595\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\q\Desktop\AudioPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4388c23f5b57d7c7b3e063fd42b4cddb432e705e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\q\.android\build-cache\e16788209d0f52be3ae73f9d510421d6b6834bce\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\q\Desktop\AudioPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ffc3ae3ca40e262ef5b08859e4a5a383a3118e95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\q\.android\build-cache\6fcd6968aec849729a9b8a8f455e157bc18adf78\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\q\Desktop\AudioPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c13f25c8606929df0e8f60f87e5ecc8a14dad2d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\q\.android\build-cache\ea491194ad3895cf7c8193b08d1bfa717eea54d7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\q\Desktop\AudioPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6d0d7b5db823738412d335b887cd1110243054cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\q\.android\build-cache\f44b73cff91d9f08317ee71717cf49a60da96283\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\q\Desktop\AudioPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a7dabbcacdd5d0699d8b61436d4f3d0745d233a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\q\.android\build-cache\9c91d48f3ab826a91524adc7df7fe6b95577f163\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\q\Desktop\AudioPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc3e36787dfe68010597d93202b95925c55ea027\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\q\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\q\Desktop\AudioPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_2f62b71cfb372f538efdab9400e0433fd1bd514f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\q\.android\build-cache\865d57cc2d578b20d0a3a9990cfdce7878c1f28c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\q\Desktop\AudioPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ab2070c4ab0f1e40ee9dfd78c6ee05513756fd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\q\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\q\Desktop\AudioPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_59213dc946d818b8f6b86693389ade9781493270\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\q\.android\build-cache\bee98ba27a54dc901eec8ab211c0a14d8084c24e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\q\Desktop\AudioPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad45b0fe69e3bb0ddb59cf73b6a3dee6b3e7e3cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\q\.android\build-cache\1c26557adb17615c6739abcd8e8658b47638314e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\q\Desktop\AudioPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d8070209b88f40aa8d4dbab249e504dd41a5ab45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\q\.android\build-cache\cdfdca4517d3011425c945f2e3c885df8cbef080\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\q\Desktop\AudioPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc641b47debcf5c5597583c2d7dbd7677f34a2f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\q\.android\build-cache\20608dfa116f31f65d302a9e772edf64af8da6e0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\q\Desktop\AudioPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe1c03067ed897e1d47ef95a580870d03574d6d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\q\.android\build-cache\d750d331f70cb69a0ff4209464bc68d51269be36\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\q\Desktop\AudioPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_905a80569722e11fe47d478b489d1c8d7ec02397\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\q\Desktop\AudioPlayer-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="28e45c2cbe5b7cc33f5dcc47208377755814427a">
+        <dex dex="C:\Users\q\Desktop\AudioPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_72017d125ca60c83c9370416cbca30d07c6ef5c0\classes.dex" />
+    </item>
+
+</items>
